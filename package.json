@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "budget tracking",
   "main": "server.js",
+  "engines": {
+    "node": "12.11.1"
+    },
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
