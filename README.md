@@ -20,8 +20,9 @@ When brought back online:
 
 ### Demo for the deployed app
 ![BudgetTracker demo]()
-![BudgetTracker screenshot]()
-![BudgetTracker screenshot]()
+![BudgetTracker screenshot](https://github.com/Geovany17/budgetTracker/blob/main/public/assets/Screenshot%20(102).png)
+![BudgetTracker screenshot](https://github.com/Geovany17/budgetTracker/blob/main/public/assets/Screenshot%20(103).png)
+![BudgetTracker screenshot](https://github.com/Geovany17/budgetTracker/blob/main/public/assets/Screenshot%20(99).png)
 
 
 
