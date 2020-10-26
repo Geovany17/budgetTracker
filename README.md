@@ -19,7 +19,7 @@ When brought back online:
 - Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
 ### Demo for the deployed app
-![BudgetTracker demo]()
+![BudgetTracker demo](https://github.com/Geovany17/budgetTracker/blob/main/public/assets/budgetDemo.gif)
 ![BudgetTracker screenshot](https://github.com/Geovany17/budgetTracker/blob/main/public/assets/Screenshot%20(102).png)
 ![BudgetTracker screenshot](https://github.com/Geovany17/budgetTracker/blob/main/public/assets/Screenshot%20(103).png)
 ![BudgetTracker screenshot](https://github.com/Geovany17/budgetTracker/blob/main/public/assets/Screenshot%20(99).png)
